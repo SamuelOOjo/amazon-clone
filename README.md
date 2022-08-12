@@ -1,4 +1,4 @@
-LINK TO AIRBNB-CLONE
+LINK TO AMAZON-CLONE
 
 https://clone-a6a0a.web.app/
 
