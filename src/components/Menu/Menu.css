@@ -1,0 +1,23 @@
+.menu {
+  background-color: #232f3e;
+  color: white;
+  display: flex;
+  align-items: center;
+  height: 39px;
+  padding-left: 7px;
+}
+
+.menu__pages {
+  display: flex;
+}
+
+.menu__pages > h2 {
+  font-size: 14px;
+  line-height: 12px;
+  padding-right: 15px;
+  white-space: nowrap;
+}
+
+.menu__pages > h2:hover {
+  cursor: pointer;
+}
